@@ -7,9 +7,9 @@
 
 - 🎓 &nbsp; MSc Software Systems Engineering
 - 💼 &nbsp; Working as Data Scientist at Sonova.
-- 👀 &nbsp; Interested in Data Analytics and Machine Learning.
+- ⚡ &nbsp; Interested in Data Analytics and Machine Learning.
 - 🌱 &nbsp; Currently learning how to develop, deploy, and continuously improve productionized ML applications at scale.
-- 💞️ &nbsp; Looking to collaborate on boosting data science productivity and agility.
+- 👀 &nbsp; Looking to collaborate on boosting data science productivity and agility.
 - 📫 How to reach me https://desared.com/
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desared/)](https://www.linkedin.com/in/desared/)
