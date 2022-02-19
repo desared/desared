@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desared
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning how to establish a model baseline, develop, deploy, and continuously improve a productionized ML application
-- 💞️ I’m looking to collaborate on boosting data science productivity and agility
+- 👀 I’m interested in Data Analytics and Machine Learning.
+- 🌱 I’m currently learning how to develop, deploy, and continuously improve a productionized ML application at scale.
+- 💞️ I’m looking to collaborate on boosting data science productivity and agility.
 - 📫 How to reach me https://desared.com/
 
 <!---
