@@ -13,7 +13,7 @@
 - 📫 How to reach me https://desared.com/
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desared/)](https://www.linkedin.com/in/desared/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](desaredosmanllari@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@desaredosmanllari.ca)](desaredosmanllari@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)        
 
 
