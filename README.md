@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hi, I’m @desared </h1>
 
-<img align ="right" src = "https://giphy.com/gifs/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width="250" height="250">
+<img align ="right" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250" height="250">
 
 - 🎓 &nbsp; MSc Software Systems Engineering
 - 💼 &nbsp; Working as Data Scientist at Sonova.
