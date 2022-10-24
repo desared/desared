@@ -8,7 +8,7 @@
 - ⚡ &nbsp; Interested in Data Analytics and Machine Learning.
 - 🌱 &nbsp; Currently learning how to develop, deploy, and continuously improve productionized ML applications at scale.
 - 👀 &nbsp; Looking to collaborate on boosting data science productivity and agility.
-- 💻 &nbsp; In this repository, you can find open source projects I have contributed in regard to various specializations, academic achievements, or personal projects. 
+- 💻 &nbsp; In this profile, you can find open source code, written in regard to various specializations, academic achievements, or personal projects. 
 - 📫 How to reach me: 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desared/)](https://www.linkedin.com/in/desared/)
