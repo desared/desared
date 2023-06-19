@@ -4,7 +4,7 @@
 <img align ="right" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="280" height="280">
 
 - 🎓 &nbsp; MSc Software Systems Engineering
-- 💼 &nbsp; Working as Data Scientist at Sonova.
+- 💼 &nbsp; Working as Senior Data Scientist at Sonova.
 - ⚡ &nbsp; Interested in Data Analytics and Machine Learning.
 - 🌱 &nbsp; Currently learning how to develop, deploy, and continuously improve productionized ML applications at scale.
 - 👀 &nbsp; Looking to collaborate on boosting data science productivity and agility.
